@@ -65,11 +65,8 @@ python .\desktop_fences_lite.py --inventory
 dist\desktop_fences_lite_v6.exe
 ```
 
-## 配置兼容
+## 屏幕截图是效果预览
 
-v6 继续使用 `desktop_fences_lite_v5_config.json`，这是为了兼容已有布局和手动分类，不代表正在运行 v5。该文件包含个人桌面布局，不纳入版本控制。
-
-当前发布 EXE 的 SHA-256：
 
 ```text
 F8BE5E228BFDDD6BFFF90B2BBD56683FC2F1853FF0948D459FF2EBC8F5677222
