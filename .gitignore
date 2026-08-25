@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+build/
+*.spec
+desktop_fences_lite_v5_config.json
+
